@@ -1,0 +1,22 @@
+h1{
+    font-size: 55px;
+    color: aqua;
+    text-align: center;
+    text-decoration: underline;
+
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+    size: 52px;
+}
+label{
+    size: 37px;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    color: aqua;
+}
